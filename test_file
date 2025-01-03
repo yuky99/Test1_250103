@@ -3,3 +3,5 @@
   let display = new.toLocaleTimeString();
   document.write(`현재 시각은 ${display} 입니다.`);
 </script>
+
+// 깃허브 공부중//
